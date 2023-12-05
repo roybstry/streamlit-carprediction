@@ -60,4 +60,4 @@ elif selected == "Contact":
     st.title("")
     st.title("")
     st.title("")
-    st.markdown(" Presentetd by Kelompok 7 - ENGINE")
+    st.markdown(" Presented by Kelompok 7 - ENGINE")
