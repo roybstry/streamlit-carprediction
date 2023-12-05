@@ -55,6 +55,4 @@ elif selected == "Contact":
     st.header("5. Moh. Alfarabi Susanto - 212410102090")
     st.header("6. Mutma Innah - 20051214026")
     st.title("")
-    st.title("")
-    st.title("")
     st.markdown(" Presented by Kelompok 7 - ENGINE")
