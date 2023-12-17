@@ -33,10 +33,10 @@ elif selected == "Projects":
     st.title(f"Sistem Prediksi Harga Mobil Bekas")
     
     year = st.number_input('Input Tahun Mobil')
-    mileage = st.number_input('Input Km Mobil')
+    mileage = st.number_input('Input Jarak Tempuh Mobil (mileage)')
     tax = st.number_input('Input Pajak Mobil')
-    mpg = st.number_input('Input Konsumsi BBM Mobil')
-    engineSize = st.number_input('Input Engine Size')
+    mpg = st.number_input('Input Konsumsi BBM Mobil (mpg)')
+    engineSize = st.number_input('Input Engine Size (cc)')
 
     predict = ''
 
