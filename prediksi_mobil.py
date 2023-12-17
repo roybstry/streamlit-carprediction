@@ -24,10 +24,10 @@ if selected == "Home":
     st.title("")
     st.title(f"Input yang Dibutuhkan")
     st.markdown("Tahun Mobil: Masukkan tahun pembuatan mobil untuk memperoleh estimasi yang lebih akurat.")
-    st.markdown("Kilometer Mobil (KM): Tentukan total jarak yang telah ditempuh oleh mobil.")
-    st.markdown("Pajak Mobil: Input jumlah pajak yang terkait dengan mobil Anda.")
-    st.markdown("Konsumsi BBM Mobil: Berikan informasi tentang konsumsi bahan bakar mobil (kilometer per liter).")
-    st.markdown("Engine Size: Tentukan ukuran mesin mobil dalam liter.")
+    st.markdown("Total Jarak Tempuh (mile): Tentukan total jarak yang telah ditempuh oleh mobil (mileage).")
+    st.markdown("Pajak Mobil: Input jumlah pajak yang terkait dengan mobil.")
+    st.markdown("Konsumsi BBM Mobil: Berikan informasi tentang konsumsi bahan bakar mobil (mpg).")
+    st.markdown("Engine Size: Tentukan ukuran mesin mobil. (1.500 cc = 1.5)")
 
 elif selected == "Projects":
     st.title(f"Sistem Prediksi Harga Mobil Bekas")
