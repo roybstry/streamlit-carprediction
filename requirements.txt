@@ -1,7 +1,7 @@
-numpy
-pandas
-scikit-learn==1.2.2
-altair==4.2.2
-streamlit==1.15.0
-matplotlib==3.5.2
-streamlit_option_menu
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+altair==5.2.0
+streamlit==1.32.2
+matplotlib==3.8.4
+streamlit-option-menu==0.3.6
